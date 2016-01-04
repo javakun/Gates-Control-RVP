@@ -1,0 +1,11 @@
+
+.DS_Store
+.vagrant
+.idea
+.vscode
+Berksfile.lock
+git-info.txt
+logs/*.log
+node_modules
+npm-debug.log
+
